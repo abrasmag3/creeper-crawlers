@@ -1,0 +1,7 @@
+name: "creeper-crawlers"
+displayName: "Creeper Crawlers"
+author: "AbrasMage"
+description: "Turns crawlers into creepers."
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: [ ]
